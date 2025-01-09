@@ -1,14 +1,8 @@
 <h1 align="center">HELLOOOOO-!!! I'm Marcos Lopez 🦝</h1>
 <h3 align="center">A very intensive backend developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=markihub&label=Profile%20views&color=0e75b6&style=flat" alt="markihub" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=markihub" alt="markihub" /></a> </p>
-
 - 🌱 I’m currently learning **Spring**
-
-- 💬 Ask me about **Raccoons**
-
+  
 - ⚡ Fun fact **I like the raccoons 🦝**
 
 <h3 align="left">Connect with me:</h3>

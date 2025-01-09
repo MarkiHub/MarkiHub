@@ -16,7 +16,8 @@
 </div>  
 
 ## My Skill Set  
-<table><tr><td valign="top" width="33%">
+<table style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; padding: 10px; width: 100%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<tr><td valign="top" width="33%">
 
 
 
@@ -60,7 +61,7 @@
 <a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
 </div>
 
-</td></tr></table>  
+</td></tr></table>
 
 <br/>  
 

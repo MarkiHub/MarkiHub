@@ -5,11 +5,15 @@
   
 - 🦝 **I like the raccoons**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/marki-lopez" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="marki-lopez" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/marcos_lopez2331" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@marcos_lopez2331" height="30" width="40" /></a>
-</p>
+## Connect with me  
+<div align="center">
+<a href="https://github.com/MarkiHub" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/marki-lopez" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
 
 ## My Skill Set  
 <table><tr><td valign="top" width="33%">

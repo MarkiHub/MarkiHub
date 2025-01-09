@@ -1,15 +1,4 @@
-# Ahi digale 🦝
-31. minutos
-    - Juan Carlos Bodoque
-    - Mario Hugo
-32. paputz
-    - [Rin raja](https://www.youtube.com/watch?v=COBJFGzOE1w)
-      - [Nunca me he sacado un 7](https://www.youtube.com/watch?v=_3qHy9WiFDU)
-        - [Ríe](https://www.youtube.com/watch?v=9ItuO9lsspU)
-          - [Severlá](https://www.youtube.com/watch?v=R2jK-MuW2U8)
-<img src="https://github.com/MarkiHub/MarkiHub/blob/main/F9Z5_DAWQAAnxQb.jpeg" height="150" style="width: 100%" title="El mejor JavaDev de">
-
-<h1 align="center">HELLOOOOO-!!! Im Marcos Lopez</h1>
+<h1 align="center">HELLOOOOO-!!! I'm Marcos Lopez 🦝</h1>
 <h3 align="center">A very intensive backend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=markihub&label=Profile%20views&color=0e75b6&style=flat" alt="markihub" /> </p>
@@ -35,3 +24,10 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markihub&show_icons=true&locale=en" alt="markihub" /></p>
 
+31. minutos
+    - [Rin raja](https://www.youtube.com/watch?v=COBJFGzOE1w)
+      - [Nunca me he sacado un 7](https://www.youtube.com/watch?v=_3qHy9WiFDU)
+        - [Ríe](https://www.youtube.com/watch?v=9ItuO9lsspU)
+          - [Severlá](https://www.youtube.com/watch?v=R2jK-MuW2U8)
+
+<img src="https://github.com/MarkiHub/MarkiHub/blob/main/F9Z5_DAWQAAnxQb.jpeg" height="150" style="width: 100%" title="El mejor JavaDev de">

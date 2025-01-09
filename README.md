@@ -16,7 +16,7 @@
 </div>  
 
 ## My Skill Set  
-<table style="background-color: rgba(255, 255, 255, 0.8); border-radius: 10px; padding: 10px; width: 100%; box-shadow: 0px 4px 8px rgba(0, 0, 0, 0.1);">
+<table style="background-color: rgba(255, 255, 255, 0.8)">
 <tr><td valign="top" width="33%">
 
 

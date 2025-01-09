@@ -65,8 +65,4 @@
 
 <br/>  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=markihub&show_icons=true&locale=en&layout=compact" alt="markihub" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=markihub&show_icons=true&locale=en" alt="markihub" /></p>
-
 <img src="https://github.com/MarkiHub/MarkiHub/blob/main/F9Z5_DAWQAAnxQb.jpeg" height="150" style="width: 100%" title="El mejor JavaDev de">

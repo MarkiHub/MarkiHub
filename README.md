@@ -1,7 +1,7 @@
 <h1 align="center">HELLOOOOO-!!! I'm Marcos Lopez 🦝</h1>
 <h3 align="center">A very intensive backend developer</h3>
 
-- 🌱 I'm currently learning **Spring**
+- 🦝 I'm currently learning **NestJS**
   
 - 🦝 **I like the raccoons**
 
